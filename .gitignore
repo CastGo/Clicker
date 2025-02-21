@@ -1,0 +1,26 @@
+# Unity auto-generated files (ไม่ต้องอัปโหลด)
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Visual Studio
+.vscode/
+*.csproj
+*.sln*
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# System files
+.DS_Store
+Thumbs.db
